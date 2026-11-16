@@ -1,0 +1,14 @@
+# โมเดลที่เทรนแล้ว (สร้างใหม่ตอน docker build)
+model/
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
